@@ -40,7 +40,7 @@ baseurl: "/blogpost" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: CrazyUj
-    github: mindrays
+    github: mindrays/blogpost
 
 # Set this to true to get LaTeX math equation support
 use_math: 
