@@ -2,7 +2,9 @@
 toc: false
 layout: post
 description: The Happiness Project by Gretchen Rubin
-categories: [bookreview]
+categories: [bookreview, markdown]
+comments: true
+image: images/firstpost.PNG
 title: The Happiness Project book review 
 ---
 
