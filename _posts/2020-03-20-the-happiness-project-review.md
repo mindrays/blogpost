@@ -1,14 +1,10 @@
 ---
 toc: false
 layout: post
-description: 
+description: The Happiness Project by Gretchen Rubin
 categories: [bookreview]
 title: The Happiness Project book review 
 ---
-
-# The Happiness Project book review 
-
-## The Happiness Project by Gretchen Rubin
 
 ![]({{ site.baseurl }}/images/firstpost.PNG "Book")
 
