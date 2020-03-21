@@ -9,6 +9,7 @@ https://mindrays.github.io/blogpost/
 # Mindrays blog
 
 stay tuned for some life changing posts ! hehe
+
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
