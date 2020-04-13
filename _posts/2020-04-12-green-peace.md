@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: Indoor plant experirnce in small places
+description: Indoor plant experience in small places
 categories: [plants, markdown]
 comments: true
 title: Green Peace
