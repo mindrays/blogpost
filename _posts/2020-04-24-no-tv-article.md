@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: Indoor plant experience in small places
+description: 4 Months and counting, NO TV.
 categories: [time, markdown]
 comments: true
 title: 4 Months and counting, NO TV.
