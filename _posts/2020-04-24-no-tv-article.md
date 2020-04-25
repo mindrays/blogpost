@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: 4 Months and counting, NO TV.
+description: Binge.Regret.Repeat
 categories: [time, markdown]
 comments: true
 title: 4 Months and counting, NO TV.
