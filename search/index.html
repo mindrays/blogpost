@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://mindrays.github.io/blogpost/search/" />
 <meta property="og:site_name" content="Mindrays" />
 <script type="application/ld+json">
-{"description":"Leaving my life footprints","@type":"WebPage","url":"https://mindrays.github.io/blogpost/search/","headline":"Search","@context":"https://schema.org"}</script>
+{"description":"Leaving my life footprints","headline":"Search","@type":"WebPage","url":"https://mindrays.github.io/blogpost/search/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blogpost/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://mindrays.github.io/blogpost/feed.xml" title="Mindrays" /><link rel="shortcut icon" type="image/x-icon" href="/blogpost/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Search | Mindrays</title>
@@ -26,7 +26,7 @@
 <meta property="og:url" content="https://mindrays.github.io/blogpost/search/" />
 <meta property="og:site_name" content="Mindrays" />
 <script type="application/ld+json">
-{"description":"Leaving my life footprints","@type":"WebPage","url":"https://mindrays.github.io/blogpost/search/","headline":"Search","@context":"https://schema.org"}</script>
+{"description":"Leaving my life footprints","headline":"Search","@type":"WebPage","url":"https://mindrays.github.io/blogpost/search/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -37,7 +37,7 @@ function wrap_img(fn) {
     if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
         var elements = document.querySelectorAll(".post img");
         Array.prototype.forEach.call(elements, function(el, i) {
-            if (el.getAttribute("title")) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
                 const caption = document.createElement('figcaption');
                 var node = document.createTextNode(el.getAttribute("title"));
                 caption.appendChild(node);

@@ -15,7 +15,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-04-12T00:00:00-05:00" />
 <script type="application/ld+json">
-{"datePublished":"2020-04-12T00:00:00-05:00","dateModified":"2020-04-12T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html"},"description":"Indoor plant experience in small places","@type":"BlogPosting","url":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html","headline":"Green Peace","@context":"https://schema.org"}</script>
+{"description":"Indoor plant experience in small places","dateModified":"2020-04-12T00:00:00-05:00","datePublished":"2020-04-12T00:00:00-05:00","headline":"Green Peace","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html"},"url":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blogpost/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://mindrays.github.io/blogpost/feed.xml" title="Mindrays" /><link rel="shortcut icon" type="image/x-icon" href="/blogpost/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Green Peace | Mindrays</title>
@@ -30,7 +30,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-04-12T00:00:00-05:00" />
 <script type="application/ld+json">
-{"datePublished":"2020-04-12T00:00:00-05:00","dateModified":"2020-04-12T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html"},"description":"Indoor plant experience in small places","@type":"BlogPosting","url":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html","headline":"Green Peace","@context":"https://schema.org"}</script>
+{"description":"Indoor plant experience in small places","dateModified":"2020-04-12T00:00:00-05:00","datePublished":"2020-04-12T00:00:00-05:00","headline":"Green Peace","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html"},"url":"https://mindrays.github.io/blogpost/plants/markdown/2020/04/12/green-peace.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -41,7 +41,7 @@ function wrap_img(fn) {
     if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
         var elements = document.querySelectorAll(".post img");
         Array.prototype.forEach.call(elements, function(el, i) {
-            if (el.getAttribute("title")) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
                 const caption = document.createElement('figcaption');
                 var node = document.createTextNode(el.getAttribute("title"));
                 caption.appendChild(node);

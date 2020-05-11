@@ -110,4 +110,18 @@
   
   
 
+  
+  
+
+  
+      ,"page11": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "https://mindrays.github.io/blogpost/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
 }
