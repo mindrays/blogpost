@@ -13,7 +13,7 @@ developed my love for it. Over the years I have perfected this recipe and this r
 
 ## step 1
 
-First step is to know how much tea you want to make. Here I am going to make tea for two. You can use the cup in which you will be having tea as measuring cup. This is my favourite tea cup and I will be using as my measuring cup.
+First step is to know how much tea you want to make. Here I am going to make tea for two. You can use the cup in which you will be having tea as measuring cup. This is my favourite tea cup and I will be using this as my measuring cup.
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s1.jpg)
 
