@@ -73,7 +73,7 @@ let it simmer for 2-3 mins (caution: It should not be boiling like shown in the 
 
 ## step 11
 
-Now, it is the  time to add milk. Add 1/2 cup of whole milk. The type of milk makes a difference. If you are using 2% fat milk, you can reduce water to 3/4th a cup to 1 cup in step 1.
+Now, it is the  time to add milk. Add 1/2 cup of whole milk. The type of milk makes a difference. If you are using 2% fat milk, you can reduce water to 3/4th a cup to 1 cup in step 2.
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s11.jpg)
 
