@@ -32,7 +32,7 @@ Next, grate ginger. I am using about 1 inch of leftover ginger from previous coo
 
 ## step 4
 
-This is the size of ginger after grating. I stopped grating after I approached a size where I was at the risk of grating my fingers :D
+This is the size of ginger after grating. I stopped grating after I was at the risk of grating my fingers :D
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s4.jpg)
 
@@ -55,7 +55,7 @@ We want to want to boil it until it is reduced to one cup like this. You will se
 
 ## step 8
 
-We add 2.5 spoons of tea power. I am using "Red label Natural care", it has some dried herbs already in it. It can be bought from amazon or indian store nearby.
+Add 2.5 spoons of tea power. I am using "Red label Natural care", it has some dried herbs already in it. It can be bought from amazon or indian store nearby.
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s8.jpg)
 
@@ -101,6 +101,6 @@ Tadaa ! your awesome cup of ginger tea is ready ! Be ready to receive complement
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s15.jpg)
 
-I love having taking a tea break and interestingly it opens to nice conversations with friends and family. Enjoy! stay safe!!
+I love having taking a tea break and interestingly it opens to nice conversations with friends and family. Enjoy and stay safe!!
 
 Bon Appetit ! 
