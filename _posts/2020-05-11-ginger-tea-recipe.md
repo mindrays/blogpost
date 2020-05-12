@@ -6,14 +6,14 @@ categories: [food, markdown]
 comments: true
 title: Ginger Tea Recipe 
 ---
-A warm cup of ginger tea makes my day :coffee: ! I love and cherish a well made tea :relieved:.  My early memory of tasting tea goes back when I was staying 
+A warm cup of ginger tea makes my day! I love and cherish a well made tea.  My early memory of tasting tea goes back when I was staying 
 with my grandma in high school. My granny used to love making tea and my grandpa never used to drink any beverage other than warm cup 
-of milk with cream and sugar. I guess I have inherited tea loving genes :jeans: from my Grandma. It was not until few years that I actually 
-developed my love for it. Over the years I have perfected this recipe and this recipe is guaranteed to be a hot ! :boom: :fire: :heart: ....you're welcome :smile: 
+of milk with cream and sugar. I guess I have inherited tea loving genes from my Grandma. It was not until few years that I actually 
+developed my love for it. Over the years I have perfected this recipe and this recipe is guaranteed to be a hot !....you're welcome 
 
 ## step 1
 
-First step is to know how much tea you want to make. Here I am going to make tea for two. You cn use the cup you will be drinking tea in as a measuring cup
+First step is to know how much tea you want to make. Here I am going to make tea for two. You can use the cup you will be drinking tea in as a measuring cup
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s1.jpg)
 
@@ -44,7 +44,7 @@ This is how it looks like grated ginger in water
 
 ## step 6
 
-We let ginger water to boil untill it i reduced to 1 cup of water
+We let ginger water to boil until it is reduced to 1 cup of water
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s6.jpg)
 
@@ -55,7 +55,7 @@ We want to want to boil it until it is reduced to one cup like this. You will se
 
 ## step 8
 
-We add 2.5 spoons of tea power. I am using "Red label Natural care", it has few dried herbs already in it. You should easily find it in amazon or any indian store nearby
+We add 2.5 spoons of tea power. I am using "Red label Natural care", it has few dried herbs already in it. You should easily find it in amazon or any Indian store nearby
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s8.jpg)
 
@@ -97,10 +97,10 @@ At this stage keep an eye on your tea because it can overflow within a wink of a
 
 ## step 15
 
-tadaa ! your awesome cup of ginger tea is ready ! Be ready to recieve complements from your friends and family. Tea goes very well with biscuits and spicy mixtures :stuck_out_tongue_winking_eye:
+tadaa ! your awesome cup of ginger tea is ready ! Be ready to receive complements from your friends and family. Tea goes very well with biscuits and spicy mixtures
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s15.jpg)
 
-I love having taking a tea break and intrestingly it opens to nice conversations with friends and family :)
+I love having taking a tea break and interestingly it opens to nice conversations with friends and family :smile:
 
 Bon Appetit ! 
