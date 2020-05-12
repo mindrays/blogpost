@@ -32,7 +32,7 @@ Next, grate ginger. I am using about 1 inch of leftover ginger from previous coo
 
 ## step 4
 
-This is the size of ginger after grating. I stopped grating after I was at the risk of grating my fingers :D
+This is the size of ginger after grating. I stopped grating after I was at the risk of grating my fingers :D (Note: be generous in adding ginger, too less you won't get the flavor and too much it overpowers everything)
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s4.jpg)
 
