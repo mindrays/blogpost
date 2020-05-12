@@ -44,13 +44,13 @@ Grated ginger in water.
 
 ## step 6
 
-We let ginger water to boil until it is reduced to 1 cup of water. It takes roughly 10-15 mins of medium flame.
+Let ginger water boil until it is reduced to 1 cup of water. It takes roughly 10-15 mins of medium flame (boil in high flame if you are impatient like me).
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s6.jpg)
 
 ## step 7
 
-We want to want to boil it until it is reduced to one cup like this. You will see change in colour
+Boil it until it is reduced to one cup like this. You will see change in colour
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s7.jpg)
 
 ## step 8
