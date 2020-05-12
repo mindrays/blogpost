@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: step by step ginger tea recipe in photos
+description: step by step ginger tea recipe with pics
 categories: [food, markdown]
 comments: true
 title: Ginger Tea Recipe 
