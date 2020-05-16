@@ -9,7 +9,3 @@ So I made a collage :)
 
 ![]({{ site.baseurl }}/images/2020-05-15-about-me-1.jpg)
 ![]({{ site.baseurl }}/images/2020-05-15-about-me-2.jpg)
-
-
-
-
