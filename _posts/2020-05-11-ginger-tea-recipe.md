@@ -9,7 +9,7 @@ title: Ginger Tea Recipe
 A warm cup of ginger tea makes my day! I love and cherish a well made tea.  My early memory of tasting tea goes back when I was staying 
 with my grandma in high school. My granny used to love making tea and my grandpa never used to drink any beverage other than warm cup 
 of milk with cream and sugar. I guess I have inherited tea loving genes from my Grandma. It was not until few years that I actually 
-developed my love for it. Over the years I have perfected this recipe and this recipe is a guaranteed hit !....you're welcome 
+developed my love for it. Over the years I have perfected this recipe and this recipe is a guaranteed hit....you're welcome ! 
 
 ## step 1
 
@@ -101,6 +101,6 @@ Tadaa ! your awesome cup of ginger tea is ready ! Be ready to receive complement
 
 ![]({{ site.baseurl }}/images/ginger-tea-pics/s15.jpg)
 
-I love having taking a tea break and interestingly it opens to nice conversations with friends and family. Enjoy and stay safe!!
+I love having taking a tea break with my friends and family and it ALWAYS leads to fun conversations :) Enjoy and stay safe!!
 
 Bon Appetit ! 

@@ -1,10 +1,10 @@
 ---
 toc: false
 layout: post
-description: Binge.Regret.Repeat
+description: Binge.Regret.Repeat + update so far...
 categories: [time, markdown]
 comments: true
-title: 4 Months and counting, NO TV.
+title: Trying 'No TV' Experiment !
 ---
 
 I packed my brand new TV and sold it on Jan 1st, 2020 in Fb marketplace, must say that's one of the best places to sell (no this article is not sponsored by Facebook 😆)
