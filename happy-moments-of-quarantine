@@ -9,11 +9,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Happy moments" />
 <meta property="og:description" content="Happy moments" />
-<link rel="canonical" href="https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html" />
-<meta property="og:url" content="https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html" />
+<link rel="canonical" href="https://mindrays.github.io/blogpost/happy-moments-of-quarantine" />
+<meta property="og:url" content="https://mindrays.github.io/blogpost/happy-moments-of-quarantine" />
 <meta property="og:site_name" content="Mindrays" />
 <script type="application/ld+json">
-{"description":"Happy moments","headline":"Favourite Quarantine moments so far !","@type":"WebPage","url":"https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html","@context":"https://schema.org"}</script>
+{"description":"Happy moments","headline":"Favourite Quarantine moments so far !","@type":"WebPage","url":"https://mindrays.github.io/blogpost/happy-moments-of-quarantine","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blogpost/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://mindrays.github.io/blogpost/feed.xml" title="Mindrays" /><link rel="shortcut icon" type="image/x-icon" href="/blogpost/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Favourite Quarantine moments so far ! | Mindrays</title>
@@ -22,11 +22,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Happy moments" />
 <meta property="og:description" content="Happy moments" />
-<link rel="canonical" href="https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html" />
-<meta property="og:url" content="https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html" />
+<link rel="canonical" href="https://mindrays.github.io/blogpost/happy-moments-of-quarantine" />
+<meta property="og:url" content="https://mindrays.github.io/blogpost/happy-moments-of-quarantine" />
 <meta property="og:site_name" content="Mindrays" />
 <script type="application/ld+json">
-{"description":"Happy moments","headline":"Favourite Quarantine moments so far !","@type":"WebPage","url":"https://mindrays.github.io/blogpost/happy-moments-of-quarantine.html","@context":"https://schema.org"}</script>
+{"description":"Happy moments","headline":"Favourite Quarantine moments so far !","@type":"WebPage","url":"https://mindrays.github.io/blogpost/happy-moments-of-quarantine","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -73,7 +73,7 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/blogpost/about/">About Me</a><a class="page-link" href="/blogpost/happy-moments-of-quarantine.html">Favourite Quarantine moments so far !</a><a class="page-link" href="/blogpost/search/">Search</a><a class="page-link" href="/blogpost/categories/">Tags</a></div>
+        <div class="trigger"><a class="page-link" href="/blogpost/about/">About Me</a><a class="page-link" href="/blogpost/happy-moments-of-quarantine">Favourite Quarantine moments so far !</a><a class="page-link" href="/blogpost/search/">Search</a><a class="page-link" href="/blogpost/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -103,15 +103,18 @@ window.onload = wrap_img;
     </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p><img src="/blogpost/images/page_1.PNG" alt="" /></p>
+    ![](/blogpost/images/page_1.PNG)
 
-<p><img src="/blogpost/images/page_2.PNG" alt="" /></p>
 
-<p><img src="/blogpost/images/page_3.PNG" alt="" /></p>
+![](/blogpost/images/page_2.PNG)
 
-<p><img src="/blogpost/images/page_4.PNG" alt="" /></p>
 
-<p>PS: I am trying to write one blogpost per week and this is the best I could come up with this week :)</p>
+![](/blogpost/images/page_3.PNG)
+
+
+![](/blogpost/images/page_4.PNG)
+
+PS: I am trying to write one blogpost per week and this is the best I could come up with this week :)
 
   </div><!-- from https://github.com/utterance/utterances -->
 <script src="https://utteranc.es/client.js"
@@ -121,7 +124,7 @@ window.onload = wrap_img;
         theme="github-light"
         crossorigin="anonymous"
         async>
-</script><a class="u-url" href="/blogpost/happy-moments-of-quarantine.html" hidden></a>
+</script><a class="u-url" href="/blogpost/happy-moments-of-quarantine" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
