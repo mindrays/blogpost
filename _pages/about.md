@@ -4,10 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Do you also find it difficult to write "About Me", Me too ! 
+So I made a collage about me :)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+![]({{ site.baseurl }}/images/2020-05-15-about-me-1.jpg)
+
+![]({{ site.baseurl }}/images/2020-05-15-about-me-2.jpg)
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
