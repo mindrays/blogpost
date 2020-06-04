@@ -45,4 +45,4 @@ In nutshell, if you are someone who is scared of dogs but secretly wants to let 
 
 ![]({{ site.baseurl }}/images/maya/maya-being-silly.jpg "it is fun to watch her being silly at times")
 
-Thank you, Maya for being so friendly and kudos to her parents - Aparna & Neville to let me play with her. :smile: 
+Thank you, Maya for being so friendly and kudos to her parents - Aparna & Neville to let me play with her. :)
