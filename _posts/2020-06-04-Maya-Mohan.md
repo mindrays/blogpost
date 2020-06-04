@@ -8,7 +8,7 @@ image: images/maya/maya-food-focus.jpg
 title: Maya Mohan
 ---
 
-I met her last week and I already miss her! I like to watch her being silly. She has this undeterred focus while eating and playing. The weekend is almost here and can't wait to play with her!
+I met her last week and I already miss her! I like to watch her being silly. She has this undeterred focus while eating and playing. The weekend is almost here and can't wait to play with her again!
 
 ![]({{ site.baseurl }}/images/maya/maya-food-focus.jpg "Maya is a wonderful Vizsla dog")
 
