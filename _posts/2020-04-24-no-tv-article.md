@@ -4,6 +4,7 @@ layout: post
 description: Binge.Regret.Repeat + update so far...
 categories: [time, markdown]
 comments: true
+image: images/no_Tv.jpeg
 title: Trying 'No TV' Experiment !
 ---
 

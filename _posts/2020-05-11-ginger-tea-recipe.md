@@ -4,6 +4,7 @@ layout: post
 description: step by step ginger tea recipe with pics
 categories: [food, markdown]
 comments: true
+image: images/ginger-tea-pics/s14.jpg
 title: Ginger Tea Recipe 
 ---
 A warm cup of ginger tea makes my day! I love and cherish a well made tea.  My early memory of tasting tea goes back when I was staying 

@@ -4,6 +4,7 @@ layout: post
 description: Indoor plant experience in small places
 categories: [plants, markdown]
 comments: true
+image: images/plants_with_fairy_lights.jpeg
 title: Green Peace
 ---
 
