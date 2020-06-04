@@ -21,7 +21,7 @@ It was not until when I started working in the US that my encounters with the do
 
 Before that, I was a student back in India and my relationship with dogs could be described as fight or flight. I can still vividly remember an incident where  I was chased by a street dog and I made a run like never before to save my life! I always used to avoid roads that had dogs (even when they were the behind gates) that is how much I was scared.
 
-Though the dogs in the US are so well behaved and groomed, I could not undo my fear. Whenever a dog would come near me wagging its tail I would scream so loud that poor dog used to get scared. I was practicing social distancing with dogs even before I was aware of this 2020's buzz word.
+Though the dogs in the US are so well behaved and groomed, I could not undo my fear. Whenever a dog would come near me wagging its tail I would scream so loud that poor creature used to get scared. I was practicing social distancing with dogs even before I was aware of this 2020's buzz word.
 
 Well, things changed when I  became friends with people who loved dogs and owned a dog. This was a game-changer. So whenever I wanted to hang out with my friends I was forced to hang out with their dog as well. This did not go very well initially. Whenever I would meet their dog, I would isolate myself to an area where the dog was not allowed to enter. Over time even though I was scared, I secretly wanted to pet the dog but I was scared. So, I was stuck in this vicious cycle for quite long time. 
 
