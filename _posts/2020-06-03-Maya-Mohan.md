@@ -28,7 +28,9 @@ Well, things changed when I  became friends with people who loved dogs and owned
 
 She was a pup when I met her. Very playful and very energetic. I wanted to pet and play with her like others but I was scared. After several meetups, I braved to pet her on the head. This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy whenever I would go to their home. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
 
-![]({{ site.baseurl }}/images/maya/good-to-me-4-toy.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
+
+![]({{ site.baseurl }}/images/maya/good-to-me-toy.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
+
 
 We did go on a couple of hikes before Pandemic hit the world. Nowadays I try to meet her over the weekends.
 
