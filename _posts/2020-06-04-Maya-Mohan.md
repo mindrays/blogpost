@@ -21,27 +21,27 @@ It was not until when I started working in the US that my encounters with the do
 
 Before that, I was a student back in India and my relationship with dogs could be described as fight or flight. I can still vividly remember an incident where  I was chased by a street dog and I made a run like never before to save my life! I always used to avoid roads that had dogs (even when they were the behind gates) that is how much I was scared.
 
-Though the dogs in the US are so well behaved and groomed, I could not undo my fear. Whenever a dog would come near me wagging its tail I would scream so loud that poor creature used to get scared. I was practicing social distancing with dogs even before I was aware of this 2020's buzz word.
+Though the dogs in the US are so well behaved and groomed, I could not undo my fear. Whenever a dog would come near me wagging its tail I would scream so loud that poor creature used to get scared. I was practicing social distancing with dogs even before I was aware of the 2020's buzz word.
 
-Well, things changed when I  became friends with people who loved dogs and owned a dog. This was a game-changer. So whenever I wanted to hang out with my friends I was forced to hang out with their dog as well. This did not go very well initially. Whenever I would meet their dog, I would isolate myself to an area where the dog was not allowed to enter. Over time even though I was scared, I secretly wanted to pet the dog but I was scared. So, I was stuck in this vicious cycle for quite long time. 
+Well, things changed when I  became friends with people who loved dogs and owned a dog. This was a game-changer. So whenever I wanted to hang out with my friends I was forced to hang out with their dog as well. This did not go very well initially. Whenever I would meet their dog, I would isolate myself to an area where the dog was not allowed to enter. Over time even though I was scared, I secretly wanted to pet the dog but I was scared. I was stuck in this vicious cycle for quite sometime. 
 
 ![]({{ site.baseurl }}/images/maya/maya-the-philosopher.jpg "Maya contemplating her life or wondering what is for her next meal?")
 
-Maya was a pup when I met her. Very playful and very energetic. I wanted to pet her and play with her like others but I was scared. After several meetups, I braved to put my hand over her on the head to pet her. Phew! This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
+Maya was a pup when I met her. Very playful and very energetic. I wanted to pet her and play with her like others but I was scared. After several meetups, I braved to put my hand over her head to pet her. Phew! This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
 
 
 ![]({{ site.baseurl }}/images/maya/good-to-me-.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
 
 
-We did go on a couple of hikes before the Pandemic hit the world. Nowadays I try to meet her over the weekends.
+We went on a couple of hikes before the Pandemic hit the world. These days I try to meet her over the weekends.
 
 ![]({{ site.baseurl }}/images/maya/maya's-first-camping-chasing-ducks.jpg "Maya's first camping and here she was trying to chase ducks. And yes, she loves water !")
 
-It has been one hell of a journey for me to overcome the fear of dogs. Thanks to Maya for being so gentle and playful in this whole process. Now she is a teenager and tends to play with guys more. So every time I meet her these days, my mission is to win her over!
+It has been one hell of a journey for me to overcome the fear of dogs. Thanks to Maya for being so gentle and playful in this whole process. Now she is a teenager and tends to play with guys more. So every time I meet her these days, my mission is to win her over to play with me!
 
 Sometimes I do think of getting a dog of my own but I guess there is still a long way to go (Like fostering etc. and right now I'd like to have a border Collie breed but it keeps changing!).
 
-In nutshell, if you are someone who is scared of dogs but secretly wants to let go of some fear, you need to give yourself a LOT of time. It can accelerate if you have friends like mine who have a dog. Once you overcome, they are the best ones to be around. Sometimes when I am low, I look forward to meeting Maya to see her oblivion towards life and world problems. There is some sort of comfort to see them being silly, friendly and living in the moment :)
+In nutshell, if you are someone who is scared of dogs but secretly wants to let go of some fear someday, you need to give yourself a LOT of time. It can accelerate if you have friends who already have a dog or loves dogs. Once you overcome, they are the best ones to be around. Sometimes when I am low, I look forward to meeting Maya to see her oblivion towards life and world problems. There is some sort of comfort to see them being silly, friendly and living in the moment :)
 
 ![]({{ site.baseurl }}/images/maya/maya-being-silly.jpg "it is fun to watch her being silly at times")
 
