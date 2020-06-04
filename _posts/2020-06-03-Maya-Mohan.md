@@ -14,7 +14,7 @@ I met her last week and I already miss her! I like to watch her being silly. She
 
 Well, trust me its been a journey to overcome the fear of dogs. 
 
-I never had a pet during my childhood because we used to constantly move due to the nature of my father's job.  He was in the Indian Navy. By the time I would settle in the new place, get used to the school, friends, and just when I would have made best friends we would have to pack our bags again! I cannot blame my parents for not having a dog in such circumstances!
+I never had a pet during my childhood because we used to constantly move due to the nature of my father's job.  He was in the Indian Navy. By the time I would settle in the new place, get used to the school, friends, and made best friends for life we would have had to pack our bags again! I cannot blame my parents for not having a dog in such circumstances!
 
 It was not until when I started working in the US that my encounters with the dogs started. 
 
@@ -29,7 +29,7 @@ Well, things changed when I  became friends with people who loved dogs and owned
 She was a pup when I met her. Very playful and very energetic. I wanted to pet and play with her like others but I was scared. After several meetups, I braved to pet her on the head. This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy whenever I would go to their home. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
 
 
-![]({{ site.baseurl }}/images/maya/good-to-me-toy.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
+![]({{ site.baseurl }}/images/maya/good-to-me-.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
 
 
 We did go on a couple of hikes before Pandemic hit the world. Nowadays I try to meet her over the weekends.
