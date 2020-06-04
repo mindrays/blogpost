@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: How I got over the fear of dogs
-categories: [fear,dogs, markdown]
+categories: [fear,dogs]
 comments: true
 image: images/maya/maya-food-focus.jpg
 title: Maya Mohan
