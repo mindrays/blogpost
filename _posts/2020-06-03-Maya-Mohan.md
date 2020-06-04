@@ -22,26 +22,26 @@ Before that, I was a student back in India and my relationship with dogs could b
 
 Though the dogs in the US are so well behaved and friendly, I could not undo my fear. Whenever a dog would come near me wagging its tail I would scream so loud that poor dog used to get scared of me. I was practicing social distancing with dogs and dog owners even before it I was aware of the buzz word.
 
-Well, things changed when I  became friends with people who loved dogs and owned a dog. This was a game-changer. So whenever I wanted to hang out with my friends I was forced to hang out with their dog as well. This did not go very well initially. Whenever I would meet their dog, I would scream so loudly that the poor dog used to get scared and never dared to come around me. Even though I was scared, I secretly wanted to pet the dog but I was scared. So, I was stuck in this vicious cycle for quite long until I met Maya. 
+Well, things changed when I  became friends with people who loved dogs and owned a dog. This was a game-changer. So whenever I wanted to hang out with my friends I was forced to hang out with their dog as well. This did not go very well initially. Whenever I would meet their dog, I would scream so loudly that the poor dog used to get scared and never dared to come around me. Even though I was scared, I secretly wanted to pet the dog but I was scared. So, I was stuck in this vicious cycle for quite long time. 
 
 ![]({{ site.baseurl }}/images/maya/maya-the-philosopher.jpg "Maya contemplating her life or wondering what is for her next meal?")
 
-She was a pup when I met her. Very playful and very energetic. I wanted to pet and play with her like others but I was scared. After several meetups, I braved to pet her on the head. This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
+Maya was a pup when I met her. Very playful and very energetic. I wanted to pet and play with her like others but I was scared. After several meetups, I braved to pet her on the head. This was a major milestone. Slowly I was getting used to being around her.  Another major hurdle I had to overcome was to deal with her greetings! I didn't know how to deal with her love and affectionate energy. It took me a very long time to get used to her style of greetings but once I got used to it playing with her came naturally. 
 
 
 ![]({{ site.baseurl }}/images/maya/good-to-me-.jpg "Maya is being very obedient here just because I have the toy she wants to play with")
 
 
-We did go on a couple of hikes before Pandemic hit the world. Nowadays I try to meet her over the weekends.
+We did go on a couple of hikes before the Pandemic hit the world. Nowadays I try to meet her over the weekends.
 
 ![]({{ site.baseurl }}/images/maya/maya's-first-camping-chasing-ducks.jpg "Maya's first camping and here she was trying to chase ducks. And yes, she loves water !")
 
 It has been one hell of a journey for me to overcome the fear of dogs. Thanks to Maya for being so gentle and playful in this whole process. Now she is a teenager and tends to play with guys more. So every time I meet her these days, my mission is to win her over!
 
-Sometimes I do think of getting a dog of my own but I guess there is still a long way to go (Like fostering etc. and I am fixated on border Collie breed. It keeps changing all the time!).
+Sometimes I do think of getting a dog of my own but I guess there is still a long way to go (Like fostering etc. and right now I'd like to have a border Collie breed but it keeps changing!).
 
 In nutshell, if you are someone who is scared of dogs but secretly wants to let go of some fear, you need to give yourself a LOT of time. It can accelerate if you have friends like mine who have a pet. Once you overcome, they are the best ones to be around. Sometimes when I am low, I look forward to meeting Maya to see her oblivion towards life and world problems. There is some sort of comfort to see them being silly, friendly and living in the moment :)
 
 ![]({{ site.baseurl }}/images/maya/maya-being-silly.jpg "it is fun to watch her being silly at times")
 
-Thank you, Maya and her parents to let me play with her :)
+Thank you, Maya and her parents - Aparna & Neville to let me play with her :)
