@@ -10,7 +10,7 @@ title: Chocolate Cake Recipe
 
 ![]({{ site.baseurl }}/images/chocolate-cake.jpg "Chocolate cake I made for my friend's birthday")
 
-I am one of those people who loves to bake. I bake when I am low, I bake when I am happy, sometimes I create lame occasions just to bake. I have made enough chocolate cakes to recite the whole recipe in my sleep. This is a beginner friendly cake recipe, mostly healthy and something which you can bake to lighten up your someone special!
+I am one of those people who loves to bake. I bake when I am low, I bake when I am happy, sometimes I create lame occasions just to bake. I have made enough chocolate cakes to recite the whole recipe in my sleep. This is a beginner friendly cake recipe, mostly healthy and something which you can bake to lighten up your someone special or yourself!
 
 ### __Let's get started:__
 
