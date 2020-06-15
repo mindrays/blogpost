@@ -57,7 +57,7 @@ You can take some risk and use the microwave for melting chocolate + butter or u
 
 In a bowl add __3/4th cup of chocolate chips(or melts)__, __1 - 3 tbsp of butter(depending on the consistency of frosting you like)__ and __3/4th cup of sugar or honey(if you are using honey please make sure you add after melting the chocolate chips and the butter)__.
 
-#### **Traditional method to melt chocolate:**
+#### __Traditional method to melt chocolate:__
 
 Pour some water in a pan and bring it to a boil.
 
