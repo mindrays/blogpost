@@ -59,7 +59,7 @@ In a bowl add __3/4th cup of chocolate chips(or melts)__, __1 - 3 tbsp of butter
 
 Pour some water in a pan and bring it to a boil.
 
-Place the bowl over the boiling water pan. Be patient. Let the contents in the bowl melt to a desired consitency. 
+Place the bowl over the boiling water pan. Be patient. Let the contents in the bowl melt to a desired consitency. You can also add 2 tsp of boiling water to match your desired consistency.
 
 If your chocolate cake is cooled down by now, just pour the chocolate glaze and spread it using the cake spatula (or using back of the spoon). 
 
