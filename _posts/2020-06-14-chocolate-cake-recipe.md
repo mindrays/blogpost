@@ -12,7 +12,7 @@ title: Chocolate Cake Recipe
 
 I am one of those people who loves to bake. I bake when I am low, I bake when I am happy, sometimes I create lame occasions just to bake. I have made enough chocolate cakes to recite the whole recipe in my sleep. This is a beginner friendly cake recipe, mostly healthy and something which you can bake to lighten up your someone special!
 
-### **Let's get started:**
+### __Let's get started:__
 
 First, let's turn the oven to **380 deg F**(The goal is to prepare the cake batter by the time oven reaches this temperature).
 
