@@ -12,7 +12,7 @@ title: Chocolate Cake Recipe
 
 I am one of those people who loves to bake. I bake when I am low, I bake when I am happy, sometimes I create lame occasions just to bake. I have made enough chocolate cakes to recite the whole recipe in my sleep. This is a beginner friendly cake recipe, mostly healthy and something which you can bake to lighten up your someone special!
 
-Let's get started:
+### **Let's get started:**
 
 First, let's turn the oven to **380 deg F**(The goal is to prepare the cake batter by the time oven reaches this temperature).
 
@@ -28,7 +28,7 @@ At this point, you can add __any nuts you like, my most preferred ones are walnu
 
 ### **Wet Ingredients**
 
-In another bowl __crack 3 eggs__, add __1 tsp of vanilla essence__(I haven't figured out vanilla essence's contribution in baking, it's just one of the baking rituals I guess), __1/2 to 3/4th cup of coconut oil(or vegetable oil or melted butter*__, __1/2 to 3/4th cup of honey(or agave syrup or brown sugar depending on how sweet you want the cake to be)__. 
+In another bowl __crack 3 eggs__, add __1 tsp of vanilla essence__(I haven't figured out vanilla essence's contribution in baking, it's just one of the baking rituals I guess), __1/2 to 3/4th cup of coconut oil(or vegetable oil or melted butter__, __1/2 to 3/4th cup of honey(or agave syrup or brown sugar depending on how sweet you want the cake to be)__. 
 
 Whisk them thoroughly so that they are all incorporated well.
 
