@@ -28,7 +28,7 @@ At this point, you can add __any nuts you like, my most preferred ones are walnu
 
 ### **Wet Ingredients:**
 
-In another bowl __crack 3 eggs__, add __1 tsp of vanilla essence__(I haven't figured out vanilla essence's contribution in baking, it's just one of the baking rituals I guess), __1/2 to 3/4th cup of coconut oil(or vegetable oil or melted butter__, __1/2 to 3/4th cup of honey(or agave syrup or brown sugar depending on how sweet you want the cake to be)__. 
+In another bowl __crack 3 eggs__, add __1 tsp of vanilla essence__(I haven't figured out vanilla essence's contribution in baking, it's just one of the baking rituals I guess), __1/2 to 3/4th cup of coconut oil__(or vegetable oil or melted butter), __1/2 to 3/4th cup of honey__(or agave syrup or brown sugar depending on how sweet you want the cake to be). 
 
 Whisk them thoroughly so that they are all incorporated well.
 
@@ -53,15 +53,15 @@ Once the cake is done, let it cool for good 15 - 30 mins. If you are in a hurry,
 
 Now is a good time to make the frosting while the cake is cooling. This method gives a glazed finish and does not call for a hand mixer sorts. 
 
-You can take some risk and use the microwave for melting chocolate + butter or use the traditional methods to melt chocolate + butter over the boiling water. I use either of the method based on how much time I have. I'd recommend the traditional method if  you are a newbie. 
+You can take some risk and use the __microwave__ for melting chocolate + butter or use the __traditional__ methods to melt chocolate + butter over the boiling water. I use either of the methods based on how much time I have. I'd recommend the traditional method if  you are a newbie. 
 
-In a bowl add __3/4th cup of chocolate chips(or melts)__, __1 - 3 tbsp of butter(depending on the consistency of frosting you like)__ and __3/4th cup of sugar or honey(if you are using honey please make sure you add after melting the chocolate chips and the butter)__.
+In a bowl add __3/4th cup of chocolate chips__, __1 - 3 tbsp of butter__(depending on the consistency of frosting you like) and __3/4th cup of sugar__ or honey(if you are using honey please make sure you add after melting the chocolate chips and the butter).
 
 ### __Traditional method to melt chocolate:__
 
 Pour some water in a pan and bring it to a boil.
 
-Place the bowl over the boiling water pan. Be patient. Let the contents in the bowl melt to a desired consistency. You can also add 2 tsp of boiling water to match your desired consistency.
+Place the bowl over the boiling water pan. __Be patient__. Let the contents in the bowl melt to a desired consistency. You can also add __2 tsp of boiling water__ to match your desired consistency.
 
 If your chocolate cake is cooled down by now, just pour the chocolate glaze and spread it using the cake spatula (or using the back of the spoon). 
 
