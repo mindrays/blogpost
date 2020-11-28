@@ -6,6 +6,7 @@ categories: [Art, DIY]
 comments: true
 image: images/Artsy stuff/koi fish.jpg
 title: Artsy stuff
+regenerate: true
 ---
 
  Spending more time indoors allowed me to explore my artsy side. I realized DIY's are truly an immsersive experience. I thoroughly enjoyed seeing my visualizations come to life. Here are few of them:
@@ -30,6 +31,6 @@ title: Artsy stuff
 
  4) Koi Fish using Procreate app
 
-  ![]({{ site.baseurl }}images/Artsy stuff/koi fish.jpg )
+  ![]({{ site.baseurl }}/images/Artsy stuff/koi fish.jpg )
 
  <iframe width="480" height="360" src="https://www.youtube.com/embed/Y8FwS_VDk8M" frameborder="0"> </iframe>
