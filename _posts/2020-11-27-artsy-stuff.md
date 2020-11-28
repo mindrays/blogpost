@@ -13,12 +13,14 @@ title: Artsy stuff
  1) DIY Coasters
 
  ![]({{ site.baseurl }}/images/Artsy stuff/DIY_coasters.jpg "Coasters")
+ 
 
  ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg )
 
  2) DIY Wall decor 
 
  ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_large.jpg )
+
 
  ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_small.jpg )
 
@@ -28,8 +30,6 @@ title: Artsy stuff
 
  4) Koi Fish using Procreate app
 
- ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg )
-
- ![]({{ site.baseurl }}images/Artsy stuff/koi fish.jpg )
+  ![]({{ site.baseurl }}images/Artsy stuff/koi fish.jpg )
 
  <iframe width="480" height="360" src="https://www.youtube.com/embed/Y8FwS_VDk8M" frameborder="0"> </iframe>
