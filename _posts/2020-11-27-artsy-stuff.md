@@ -14,18 +14,18 @@ title: Artsy stuff
 
  ![]({{ site.baseurl }}/images/Artsy stuff/DIY_coasters.jpg "Coasters")
 
- ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg "Book")
+ ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg )
 
  2) DIY Wall decor 
 
- ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_large.jpg "Book")
+ ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_large.jpg )
 
- ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_small.jpg "Book")
+ ![]({{ site.baseurl }}/images/Artsy stuff/DIY_Dried_flower_frame_small.jpg )
 
  3) Ikea Lack table makeover
 
- ![]({{ site.baseurl }}/images/Artsy stuff/IKEA table makeover.jpg "Book")
+ ![]({{ site.baseurl }}/images/Artsy stuff/IKEA table makeover.jpg )
 
  4) Koi Fish using Procreate app
 
- ![]({{ site.baseurl }}images/Artsy stuff/koi fish.jpg "Book")
+ ![]({{ site.baseurl }}images/Artsy stuff/koi fish.jpg )
