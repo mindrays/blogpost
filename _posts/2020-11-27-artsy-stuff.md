@@ -13,7 +13,7 @@ title: Artsy stuff
  1) DIY Coasters
 
  ![]({{ site.baseurl }}/images/Artsy stuff/DIY_coasters.jpg "Coasters")
- 
+
 
  ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg )
 
