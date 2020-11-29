@@ -9,7 +9,7 @@ title: Artsy stuff
 regenerate: true
 ---
 
- Spending more time indoors this year allowed me to explore some of my artsy sides. I tried a few DIYs for home. Throughout this process, I realized DIY’s are truly an immersive experience. It was fun to see my visualizations coming to life. Here are a few of them:
+ Spending more time indoors this year allowed me to explore some of my artsy sides. I tried a few DIY projects for home and I realized they are truly an immersive experience. It was fun to see my ideas coming to life. 
 
 ### 1) DIY Coasters
 
@@ -38,6 +38,6 @@ regenerate: true
 
   ![]({{ site.baseurl }}/images/Artsy stuff/koi fish.jpg )
 
- <iframe width="480" height="360" src="https://www.youtube.com/embed/Y8FwS_VDk8M" frameborder="0"> </iframe>
+ <iframe width="680" height="400" src="https://www.youtube.com/embed/Y8FwS_VDk8M" frameborder="0"> </iframe>
 
  I recently came across the procreate app on youtube while looking for digital lettering tutorials. This app has a plethora of options and I have seen some stunning digital arts online. I followed a youtube tutorial on koi fish. The app creates a time-lapse video of any project you create, you can find my edited video above :)
