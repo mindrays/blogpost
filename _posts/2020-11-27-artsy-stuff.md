@@ -9,7 +9,7 @@ title: Artsy stuff
 regenerate: true
 ---
 
- Spending more time indoors this year allowed me to explore some of my artsy side. I tried a few DIY’s for home. Throughout this processs I realized DIY’s are truly an immersive experience. It was fun to see my visualizations coming to life. Here are a few of them:
+ Spending more time indoors this year allowed me to explore some of my artsy sides. I tried a few DIYs for home. Throughout this process, I realized DIY’s are truly an immersive experience. It was fun to see my visualizations coming to life. Here are a few of them:
 
 ### 1) DIY Coasters
 
@@ -18,7 +18,7 @@ regenerate: true
 
  ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor.jpg "rectangular coasters from Michael's")
 
- I needed few coasters for home, so I got a few plain wooden coasters from Michaels and Ikea. I painted them using Acrylics. Then I coated a layer of mod podge for a shiny and waterproof finish.
+ I needed a few coasters for home, so I got a few plain wooden coasters from Michaels and Ikea. I painted them using Acrylics. Then I coated a layer of mod podge for a shiny and waterproof finish.
 
 ### 2) DIY Wall decor 
 
@@ -27,8 +27,7 @@ regenerate: true
 
  ![]({{ site.baseurl }}/images/Artsy stuff/wall_decor_S.jpg )
 
- I dried a few flowers and leaves in a heavy book for around three weeks and then arranged them in a glass frame. This is a very cool DIY if you want to preserve flowers from an important occasion like weddings, engagements, baby showers, and so on.
-
+ I dried a few flowers and leaves in a heavy book for around three weeks and then arranged them in a glass frame. It is a very cool DIY if you want to preserve flowers from occasions like weddings, engagements, baby showers, and so on.
 ### 3) Ikea Lack table makeover
 
  ![]({{ site.baseurl }}/images/Artsy stuff/IKEA table makeover.jpg )
@@ -41,4 +40,4 @@ regenerate: true
 
  <iframe width="480" height="360" src="https://www.youtube.com/embed/Y8FwS_VDk8M" frameborder="0"> </iframe>
 
- I recently came across the procreate app on youtube while looking for digital lettering tutorials. This app has a plethora of options and I have seen some stunning digital arts online. I followed a youtube tutorial on koi fish. The app creates a time lapse video of any project you create, you can find my edited video above :)
+ I recently came across the procreate app on youtube while looking for digital lettering tutorials. This app has a plethora of options and I have seen some stunning digital arts online. I followed a youtube tutorial on koi fish. The app creates a time-lapse video of any project you create, you can find my edited video above :)
