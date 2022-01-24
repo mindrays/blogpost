@@ -5,7 +5,7 @@ description: How I got over the fear of dogs
 categories: [fear,dogs]
 comments: true
 image: images/maya/maya-food-focus.jpg
-title: Maya Mohan
+title: How I overcame the fear of dogs
 ---
 
 I met her last week and I already miss her! I like to watch her being silly. She has this undeterred focus while eating and playing. The weekend is almost here and can't wait to play with her again!
