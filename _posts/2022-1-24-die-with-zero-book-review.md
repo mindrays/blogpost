@@ -4,11 +4,11 @@ layout: post
 description: 
 categories: [bookreview, markdown]
 comments: true
-image: images/firstpost.PNG
+image: images/die_with_zero.PNG
 title: Die with Zero by Bill Perkins book review 
 ---
 
-![]({{ site.baseurl }}/images/die_with_zero.PNG "Book")
+![]({{ site.baseurl }}/images/die_with_zero.PNG)
 
 This was an intriguing concept. In a nutshell, this book is about investing your money wisely in experiences rather than just saving up because as we grow old memories are what we are left with. He compares experiences as investment and memories as dividends. 
 
