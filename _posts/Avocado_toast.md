@@ -16,5 +16,5 @@ If you are a avocado toast fan like me, try out this recipe, I am sure you’ll 
 
 - Toast the bread in the toaster
 - Fry the egg, season it with salt, pepper and roasted sesame seeds
-- Spread the guac once the bread is ready, layer the fried egg on the bed of guac. I use con crema from our local HEB store. Since Avo’s get oxidized easily, I prefer using store brought
+- Spread the guac once the bread is ready, layer the fried egg on the bed of guac. I use con crema from    our local HEB store. Since Avo’s get oxidized easily, I prefer using store brought
 - Finally add some more sesame seeds and drizzle siracha on it
